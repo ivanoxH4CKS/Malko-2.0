@@ -1,4 +1,10 @@
 {
-    "premium_keys": [adivinaadivinanzaxddddddddddddddddddddddd", "adivinaadivinanzaxddddddddddddddddddddddd2"],
-    "lifetime_keys": ["adivinaadivinanzaxddddddddddddddddddddddd1", "adivinaadivinanzaxddddddddddddddddddddddd32"]
+    "premium_keys": [
+        "clave_premium_1",
+        "clave_premium_2"
+    ],
+    "lifetime_keys": [
+        "clave_vida_1",
+        "clave_vida_2"
+    ]
 }
